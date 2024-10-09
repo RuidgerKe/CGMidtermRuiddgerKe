@@ -17,3 +17,4 @@
 # Part 4
 # referenced lab4 rock image from https://ca.pinterest.com/pin/584482857867708993/
 # if i had time i would add a transparent shader to create a rock that hides most of the mesh aside from the iamge. then i would add a bump and rim lighting componenet on it to make it both feel 3d and to have the rim light act as pieces of snow ontop of the initial shader. unforetunately i am out of time to tinker with that idea. 
+# i would do this by combining the lab shaders togather and fit together the asects of each shader that fits neatly with each other.
